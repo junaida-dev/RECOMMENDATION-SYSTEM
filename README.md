@@ -83,3 +83,11 @@ Conclusion
 Through this project, I successfully implemented a collaborative filtering-based recommendation system from scratch. I used the surprise library for its powerful tools in building and evaluating recommendation models. The project enhanced my understanding of user-item interactions, matrix factorization, and the real-world challenges involved in recommender systems.
 
 This task not only strengthened my Python and data science skills but also helped me understand how machine learning is applied to personalization systems used across industries.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/0503540c-f4d1-4191-b8b1-f296971460e6)
+
+![Image](https://github.com/user-attachments/assets/6225e764-c7f2-4ee8-8b40-48b27fd02985)
+
+![Image](https://github.com/user-attachments/assets/5a06ade8-e2d7-48d2-9c11-5a7a9b8c852d)
